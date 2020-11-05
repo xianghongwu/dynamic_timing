@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class MyBatisConfig {
 
-    @Bean
+  /*  @Bean
     public ConfigurationCustomizer configurationCustomizer(){
         return new ConfigurationCustomizer(){
 
@@ -17,5 +17,5 @@ public class MyBatisConfig {
                 configuration.setMapUnderscoreToCamelCase(true);
             }
         };
-    }
+    }*/
 }

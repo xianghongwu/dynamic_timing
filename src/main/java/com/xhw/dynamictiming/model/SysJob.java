@@ -9,7 +9,7 @@ public class SysJob {
     /**
      * 任务ID
      */
-    private Integer jobId;
+    private String jobId;
     /**
      * bean名称
      */
